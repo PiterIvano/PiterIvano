@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hola!👋
 
-<!--
-**Hidden-parker/Hidden-parker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aquí hay algunas ideas para comenzar:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente estoy trabajando en mis propios proyectos!
+- 🌱 Actualmente estoy aprendiendo python 
+- 👯 Estoy buscando colaborar en proyectos que me dejen aprendizaje!
+<!-- - 🤔 Estoy buscando ayuda con ... -->
+<!-- - 💬 Pregúntame sobre -->
+- 📫 Cómo comunicarse conmigo: <a href=mailto:piterivano18@gmail.com>piterivano18@gmail.com</a>
+<!--- 😄 Pronombres: -->
+- ⚡ Dato curioso: *******
