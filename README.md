@@ -1,5 +1,7 @@
 ### Hola!👋
 
+![coollogo_com-622474](https://user-images.githubusercontent.com/68443246/142734123-777d3088-937b-49cf-91e5-029646ed134d.gif)
+
 Aquí hay algunas ideas para comenzar:
 
 - 🔭 Actualmente estoy trabajando en mis propios proyectos!
